@@ -1,1 +1,1 @@
-Random, maybe useful code.
+📝 Random, simple, maybe useful code.
